@@ -1,4 +1,4 @@
-### Hi there I'm Helin 👋
+### Hi there, I'm Helin 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif"/>
@@ -26,7 +26,3 @@ As a computer engineering student, I've been working on app development with Flu
 [![](https://visitcount.itsvg.in/api?id=helinguler&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
-</div>
