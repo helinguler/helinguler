@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there I'm Helin 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif"/>
 </div>
-<!--
-**helinguler/helinguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 # 💫 About Me:
 As a computer engineering student, I've been working on app development with Flutter for a few months. I was accepted to the scholarship holder of the Game and Application Academy, where 2 thousand people were selected among 35 thousand applications. I continue to develop myself in Flutter and lay the foundations of my career with additional trainings such as Google project management and technology entrepreneurship.<br>Also,  I’m currently learning artifical intelligence. 
 
@@ -25,3 +26,7 @@ As a computer engineering student, I've been working on app development with Flu
 [![](https://visitcount.itsvg.in/api?id=helinguler&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
+</div>
