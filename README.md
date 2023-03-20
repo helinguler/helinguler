@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-As a computer engineering student, I've been working on app development with Flutter for a few months. I was accepted to the scholarship holder of the Game and Application Academy, where 2 thousand people were selected among 35 thousand applications. I continue to develop myself in Flutter and lay the foundations of my career with additional trainings such as Google project management and technology entrepreneurship.<br>Also,  I’m currently learning artifical intelligence. 
+As a computer engineering student, I've been working on app development with Flutter for a few months. I was accepted to the scholarship holder of the Game and Application Academy, where 2 thousand people were selected among 35 thousand applications. I continue to develop myself in Flutter and lay the foundations of my career with additional trainings such as Google project management and technology entrepreneurship. Also,  I’m currently learning artifical intelligence. 
 
 
 ## 🌐 Socials:
