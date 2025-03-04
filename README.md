@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Helin
+# 👋 Hi, I'm Helin
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif"/>
