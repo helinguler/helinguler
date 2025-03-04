@@ -1,12 +1,12 @@
-### Hi there, I'm Helin 👋
+### 👋 Hi, I'm Helin
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif"/>
 </div>
 
 
-# 👩🏼‍💻 About Me:
-As a computer engineering student, I am currently working on app development using Flutter. 💙👩🏼‍💻<br><br>I was selected as one of the 2,000 recipients from among 35,000 applicants for the Game and App Academy's 2022 scholarship, which provided me with the opportunity to further develop my skills in the Flutter field. During my time at the academy, I participated in three competitions related to mobile app development with Flutter and created various applications. 📱🌱<br><br>My primary vision is to specialize in app development and bring my dreams and ideas that can benefit society to the world of applications.<br><br>Currently, I am continuing to enhance my skills in State Management, Firebase, Object-Oriented Programming, and Testing in Flutter. 🌟<br><br>
+# 👩🏻‍💻 About Me:
+🎓 Senior Computer Engineering student at Cukurova University.<br><br>📚 Exploring **SwiftUI**, **Firebase**, and **Core Data** to enhance my iOS development expertise.<br><br>📱 Interested in **iOS App Architecture (MVC, MVVM)** & **Performance Optimization**<br><br>✨ Open to work and excited about new opportunities in iOS development.<br><br>👾 Outside of coding, I love photography, gaming, and staying active with sports.<br><br>
 
 
 ## 🌐 Socials:
